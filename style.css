@@ -5,7 +5,7 @@
     font-weight: 500;
 }
 .first-div{
-    background-color:#FEEAE9;
+    background-color:#f0a19d;
     
 }
 .first-btn{
@@ -14,7 +14,7 @@
     justify-content: center;
     align-items: center;
     height: 52px;
-    background-color: rgb(244, 49, 179);
+    background-color: rgb(191, 38, 140);
     border-radius: 5px;
     border:0px;
     color:white;
@@ -32,7 +32,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #FEEAE9;
+    background-color: #f3b9b6;
     height: 455px;
 }
 .last-inp{
@@ -47,7 +47,7 @@
 }
 .context{
    
-    background-color: rgb(251, 43, 112);
+    background-color: rgb(106, 26, 53);
     color:white;
    width: 157px;
    height: 73px;
@@ -62,5 +62,11 @@
     margin-left: 45px;
 }
 .nav-item{
+    margin-left: 10px;
+}
+.new-div{
+    margin-top: 100px;
+}
+.navbar-brand{
     margin-left: 40px;
 }
